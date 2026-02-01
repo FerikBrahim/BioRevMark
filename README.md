@@ -1,6 +1,6 @@
-# ICRAMI-Biometric-Watermarking
+# Biometric-Watermarking
 
-**ICRAMI-Biometric-Watermarking** is a research-oriented Python framework implementing a
+**Biometric-Watermarking** is a research-oriented Python framework implementing a
 **blind, reversible, and biometric-driven medical image watermarking system**.
 The project accompanies the research paper:
 
@@ -38,7 +38,7 @@ patient authentication, and privacy preservation** in telemedicine environments.
 ##  Repository Structure
 
 ```text
-ICRAMI-Biometric-Watermarking/
+Biometric-Watermarking/
 │
 ├── data/
 │   ├── medical_images/
