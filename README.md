@@ -12,7 +12,7 @@ patient authentication, and privacy preservation** in telemedicine environments.
 
 ---
 
-## 🔍 Key Features
+##  Key Features
 
 - **Orientation-guided I-BSIF** fingerprint feature extraction  
 - **FlexenTech permutation-based encryption** for biometric templates  
@@ -23,7 +23,7 @@ patient authentication, and privacy preservation** in telemedicine environments.
 
 ---
 
-## 🧠 System Overview
+##  System Overview
 
 1. Fingerprint images are processed using orientation-adaptive I-BSIF to generate
    compact, rotation-invariant binary feature vectors.
@@ -35,7 +35,7 @@ patient authentication, and privacy preservation** in telemedicine environments.
 
 ---
 
-## 📁 Repository Structure
+##  Repository Structure
 
 ```text
 ICRAMI-Biometric-Watermarking/
